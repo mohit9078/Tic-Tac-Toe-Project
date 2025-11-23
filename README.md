@@ -51,10 +51,15 @@ STEP-6. File Structure
 -----------------------
 
 TicTacToe
+
 ├──Screenshots
+
 ├── main.py
+
 ──TicTacToe_Project_Report.pdf
+
 ──Statement.md
+
 └── README.md 
 
 STEP-7. Conclusion
